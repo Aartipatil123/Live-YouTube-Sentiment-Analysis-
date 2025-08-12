@@ -1,0 +1,250 @@
+Comment,Sentiment
+"I’m watching this video today , might be super late for others but very excited to see what impact python will have on my work and creativity 
+
+Thank you Jesus for this video and this revelation",Neutral Review
+"I am brand new at this. I know absolutely zero about Python and coding, but I am so excited about learning. Thank you for sharing your knowledge with everyone. I’ve subscribed to your channel just because the comments are so impressive.",Neutral Review
+Mosh what is your choice? Python or java,Negative Review
+"Im new to programming, started 2025 im going to master the python.",Neutral Review
+good lesson,Neutral Review
+ok,Positive Review
+Great video! Thanks for sharing.,Neutral Review
+Top quality! No wonder it's so popular.,Positive Review
+Deserves so many views! Great content!,Neutral Review
+Figuring out to buy the book ...😊,Positive Review
+Deserves so many views! Great content!,Neutral Review
+"All I heard is blah blah blah, NOT software developers.",Positive Review
+Great video! Thanks for sharing.,Neutral Review
+"Plesse i have no idea how it works but is it corect?
+
+
+y_asym1 = np.where(np.sin(t) >= 0, b_top * np.sin(t), b_bottom1 * np.sin(t))
+y_asym2 = np.where(np.sin(t) >= 0, b_top * np.sin(t), b_bottom2 * np.sin(t))
+
+plt.figure(figsize=(10, 6))
+plt.plot(x, y_asym1, label=f'b_unten = {b_bottom1}')
+plt.plot(x, y_asym2, label=f'b_unten = {b_bottom2}')
+plt.axhline(0, color='gray', linestyle='--')
+plt.axvline(0, color='gray', linestyle='--')
+
+# Achsenverhältnis und Titel
+plt.gca().set_aspect('equal', adjustable='datalim')
+plt.title('Asymmetrische Ellipsen')
+plt.legend()
+plt.show()",Positive Review
+How to do coading,Positive Review
+"Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used for various applications, including web development, data science, automation, artificial intelligence read more https://newarticlemy.blogspot.com/2025/02/what-is-python.html",Negative Review
+,Positive Review
+"This video was quite informative, thank you!",Neutral Review
+"damn i was gonna write a python script , but i thrink i write a chatgpt script to write a python script",Negative Review
+There is only one reason to learn python: the computing job market and ecosphere demands it. Python became important not because it's better or easier than other languages (it's objectively the poor cousin to most serious languages) but because it was sold as simple to learn and powerful and that led to wide adoption and a rapid expansion of tools and libraries that allowed for lazy programming. Embrace it by all means but it's the computer language world equivalent of Windoze - a poor product well sold.,Positive Review
+"🗿
+<(>",Positive Review
+Bode Wells,Positive Review
+830 Desmond Wall,Positive Review
+Reynolds Junction,Positive Review
+Pacocha Falls,Positive Review
+"Thankyou for the info. man, indeed helped! Means a lot ❤",Neutral Review
+"The python codes i've learned: my_age = 23
+legal_age = 21
+if my_age >= legal_age:
+  print(""You can have a beer!"")
+else:
+  print(""Unlucky."")my_age = 20
+legal_age = 18
+if my_age >= legal_age:
+  ???(""Enjoy the ride!"")",Positive Review
+I'm watching this after studying completely unrelated to the subject.,Negative Review
+Cool,Neutral Review
+lol,Positive Review
+cool video),Neutral Review
+"I'm an electrical engineer but I had no coding experience whatsoever before freshmen year. They just threw us in the fire with no help and horrible teaching at a fast pace! I struggled so much and never really got the full picture or a high level understanding of anything! This was partly my fault for not taking the initiative but mostly the teacher's fault for being horrible. After the first week, the professor was shocked by how many kids were coming to him and asking how to even download Python on their computers lol. Finally in the beginning of one of our classes he was like ""Okay it seems like most of you have never coded before? I thought you would all be experts at this point... This might be a rough semester for some of you."" For an intro class????? Well long story short the majority of kids did horrible (myself included) and the course was curved soo much that I got a B by getting 40's and 60's on my exam. I passed but probably shouldn't have. I was traumatized that I never wanted to touch it again!!! A few years later now and I am trying to go back and learn it for work and I'm enjoying it so much! Learning at a reasonable pace with teachers that aren't horrible is a game changer...Plus it's free/cheap! Thank goodness I found these videos and other resources! Everything is clicking now, I just wish I found this sooner SMH",Neutral Review
+WHAT IS PYHTNO IN COMPUTER IN TECHNOLOGY,Positive Review
+"Hey,
+Great Video!
+A request here:
+Please elaborate on ""Uploading to a server and running a script"" part and ,if possiblem,please point me towards the relevant resources to learn more about the same.
+Regards,
+Prince",Positive Review
+Thanks for your informatio,Neutral Review
+cool video),Neutral Review
+"It's a snake, for remaining info please google it.",Neutral Review
+"I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply
+
+I completed 33th day of the course, it is really amazing course. I am not from technical background but this course is super easy to understand and very much helpful. Thanks Harry for this 100 days of code challange journey
+
+45
+
+
+Reply",Neutral Review
+I don’t find a language with lines based on indentation to be elegant at all,Neutral Review
+It's awesome and help me about python,Neutral Review
+Thank you.,Neutral Review
+i like your code thanks,Neutral Review
+You are a great teacher for Phyton 😊,Neutral Review
+How can I get the tutorial sir,Positive Review
+"I am about to start the subject of programming in my uni. And, Python is new to me but from the video, I learned that it is simple and has multiple applications in diverse fields. I am excited more about the automation utility of Python.
+Thankyou for bringing out this brilliantly presented video.",Neutral Review
+1:35 😂,Positive Review
+I learned a lot from this thank you!,Neutral Review
+C#,Positive Review
+"For better understanding in programming, which is need to learn first? C, C++, Python ? 🤔",Neutral Review
+"I love your tutorial, thank you.",Neutral Review
+❤❤,Positive Review
+i am curious of knowing more about codding and want to make it my job,Neutral Review
+Can you make videos of data analytics using python libraries. It would be great.,Negative Review
+nice voice bro,Neutral Review
+If you made 5 million. Why are you selling videos?,Positive Review
+"The C# example requires you to create a class, the python example of ""Hello World"" does not.",Positive Review
+Amazing way of teaching.,Neutral Review
+"I been doing Python for a total of 8 hours per week around my full-time job since February, this video actually explained what it is im doing better than my instructor lol.",Neutral Review
+Do you know uipath rpa pls share those knowledge,Negative Review
+"What to learn first, HTML OR PYTHON?",Positive Review
+Hi. Can Python make a remittance mobile app?,Positive Review
+"Wiki says, 
+
+That youtube only uses python 4 server side, so we only see java or typescript.",Positive Review
+"It really is weak if you can't handle the c++ substring, but my gosh, that is so sleak",Positive Review
+Am about to start learning how to use python,Positive Review
+"You guys can learn python on my channel also, because I just started a new python series",Neutral Review
+You Are great Sir,Neutral Review
+can you make a course about cloud engineer please? im in iran and for filtering i cant learn it eazy and you teach very good 🙏🌹,Neutral Review
+I learn python and I dont know where to find place to work with it,Positive Review
+Nice video,Neutral Review
+https://youtu.be/hUWTMYBROBQ                          once watch this videos this is the best video till now,Neutral Review
+"I'm so interested in learning python, I'm still a beginner tho
+I hope it gets easy for me",Neutral Review
+What are the minimum recommended pc or laptop specs to start learning how to code. I would like to start self learning but don't know where to start as far as hardware. I don't have money for something like a gaming rig but I can swing something mid level. Suggestions would be appreciated 😊,Positive Review
+"good. i'd like learn python but i don't know where can i learn it youtube or web sites, i perfer learn it from web sites.",Positive Review
+As anroid developer i earn 3900 usd/ year monthly less than 330 a month,Positive Review
+"but how do you make websites and games, dont like unreal and unity do that? how do you actually implement it",Positive Review
+Hats off for your vibrant skills,Neutral Review
+"Eyo, A whopping $120,000 a year, daymn!!
+But it still requires hard work af and it's worth the harsh time!",Neutral Review
+Thanks a lot of much.,Neutral Review
+can i used kivy md for to create exe desktop programs?,Positive Review
+LEGEND🌟,Positive Review
+يسلمووووو,Positive Review
+"Good day to you sir...i want to ask,i have no experience on programing,,do you have a yt tutorial,or should i learn programing before i started to learn the python?or should i direct to study/learn python",Positive Review
+Hey ...which app do you use for video making or editing.,Positive Review
+kaka,Positive Review
+Sir ... I want to learn python from online.. So teach me..,Positive Review
+"If really you can workout with python why don""t you just go on and work with Tesla Company. Thanks for the video anyway.....",Neutral Review
+Is there a bootcamp? Can I get a job learning this without a degree or experience?,Negative Review
+"Top 10 Reason Why You Should Learn Python
+https://youtu.be/BkhILWyBWiM",Positive Review
+Hey! I want to learn python online because I am a school student now so give solution me please...,Positive Review
+I’m learning python right now Senior year on High school and I’m absorbing everything like a sponge!! I’m going to learn it again in College and also learn Java and C++,Neutral Review
+"I have zero knowledge about python. I don't even know that it's a programming language. LIKE, HOW TO 'LIKE' PYTHON? T.T",Neutral Review
+hard work?,Negative Review
+"python is not the best option in every field oherwise why would other programming languafe exist
+like c family language is way faster than python with games",Neutral Review
+Legend's read comments first,Positive Review
+Legends stop seeing comments concentrate on the video 😹,Neutral Review
+Excellent job sir 👍 Thanks for the video 🙏,Neutral Review
+Do one for c program basic,Negative Review
+wonderful vedio,Neutral Review
+"I'm not really sure this helps explain what Python actually is. I'm still not sure what it is in minute 1:38, all I hear is that it is a programming language for data analysis, visualization, and using Python to make my life easier. It's a multi-purpose language? What does any of this mean? I have to turn this video off at 1:38, it's not telling me what the heck Python actually is.",Neutral Review
+"If you want to learn python through a book try ""Python Projects for Beginners to advance: Every step with deep explanation""my book. It teaches you everything through projects and every single point in detail.",Neutral Review
